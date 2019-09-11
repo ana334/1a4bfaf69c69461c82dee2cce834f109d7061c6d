@@ -173,3 +173,9 @@ h2 {
 .hide {
   display: none;
 }
+
+.loading {
+  display: flex;
+  justify-content: center;
+  margin: 100px 0;
+}
